@@ -24,7 +24,6 @@ public class Day2 {
         WebElement arts=driver.findElement(By.name("btnK"));
         arts.click();
 
-        ;[]
     }
 
     public static void main(String args[]){
